@@ -1,2 +1,4 @@
-document.body.style.display = "none";
-alert("adsdad");
+object.onload = function(){
+    document.body.style.display = "none";
+    alert("adsdad");
+};
